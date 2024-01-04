@@ -1,6 +1,5 @@
 These are NoPixel 4.0 Inspired textures for door locks, target (point and select) and labels, feel free to use them how you wish.
-Credits to jay-fivem for the base textures (I edited the colours) 
-
+These where made by me they come with psd's so you can edit them however you want.
 ![image](https://i.imgur.com/VL6Sdgd.png)
 ![image](https://i.imgur.com/qASh5Wk.png)
 ![image](https://i.imgur.com/jRLjVek.png)
