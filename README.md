@@ -3,7 +3,7 @@ These are textures that you can put into a .ytd file using [OpenIv](https://open
 You can also edit the textures to change the Text (for example the E) in Key-Green.png by opening the .psd with photoshop and going from there.
 If you feel like more things need to be added or you have any type of suggestions feel free to make a pull request or message me on discord.
 
-###Discord ID
+### Discord ID
 - obtaizen
 
 # Previews
